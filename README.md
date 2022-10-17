@@ -1,5 +1,5 @@
 # DAPSI
-This repo contains summary information about our activities in the DAPSI Data Portability Accelerator.
+This page contains summary information about our activities in the DAPSI Data Portability Accelerator.
 
 See the [DiDaPOSC Project Page](https://dapsi.ngi.eu/hall-of-fame/diabetes-data-portability-through-open-source-components/)!
 
@@ -21,6 +21,8 @@ Please see individual repositories
 * [Sensotrend Converter](https://github.com/Sensotrend/sensotrend-converter)
   (also the [Nightscout branch](https://github.com/Sensotrend/sensotrend-converter/tree/nightscout) with two-way conversion)
 * [Demo App](https://github.com/Sensotrend/permissions-ui)
+
+Also see the [FairOS Android Demo App](https://github.com/fairDataSociety/fairOS-dfs-android-demo) by [Datafund](https://datafund.io).
 
 ## Credits
 
