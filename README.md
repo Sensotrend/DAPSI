@@ -21,7 +21,7 @@ Please see individual repositories
 * [Sensotrend Converter](https://github.com/Sensotrend/sensotrend-converter)
   (also the [Nightscout branch](https://github.com/Sensotrend/sensotrend-converter/tree/nightscout) with two-way conversion)
 * [Sensotrend Uploader](https://github.com/Sensotrend/sensotrend-uploader) to see how data is read from devices before conversion to HL7 FHIR format
-* [Permissions Demo App](https://github.com/Sensotrend/permissions-ui)
+* [Permissions Demo App](https://github.com/Sensotrend/permissions-ui) that demonstrates the functionality of Consent Receipts and Audit Events
 
 
 Also see the [FairOS Android Demo App](https://github.com/fairDataSociety/fairOS-dfs-android-demo) by [Datafund](https://datafund.io).
