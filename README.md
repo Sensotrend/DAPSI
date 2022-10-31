@@ -20,7 +20,9 @@ Please see the HL7 FHIR content format specification for semantic interoperabili
 Please see individual repositories
 * [Sensotrend Converter](https://github.com/Sensotrend/sensotrend-converter)
   (also the [Nightscout branch](https://github.com/Sensotrend/sensotrend-converter/tree/nightscout) with two-way conversion)
-* [Demo App](https://github.com/Sensotrend/permissions-ui)
+* [Sensotrend Uploader](https://github.com/Sensotrend/sensotrend-uploader) to see how data is read from devices before conversion to HL7 FHIR format
+* [Permissions Demo App](https://github.com/Sensotrend/permissions-ui)
+
 
 Also see the [FairOS Android Demo App](https://github.com/fairDataSociety/fairOS-dfs-android-demo) by [Datafund](https://datafund.io).
 
